@@ -5,9 +5,12 @@
 - What is a 3rd party depency? 
 - What are scripts or script packs? 
 - What is JSX code syntax? 
+- What is props?
+-Understand nested functions 
+-What is a modal overlay?
 
 
 - React Component 
 - Functions 
 
-/*
+Inside of curly brackets will be read and executed as JS 
