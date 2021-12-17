@@ -1,16 +1,17 @@
-*/
+<!-- \*/
 ----Questions
 
 - What are dependencies in REACT and what do they do? What purpose do they serve?
-- What is a 3rd party depency? 
-- What are scripts or script packs? 
-- What is JSX code syntax? 
+- What is a 3rd party depency?
+- What are scripts or script packs?
+- What is JSX code syntax?
 - What is props?
--Understand nested functions 
--What is a modal overlay?
+  -Understand nested functions
+  -What is a modal overlay?
+  -What is state? ( https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbW5YQmlaRElHMnEzV3c1cXdsWnlKTUVJN2N6Z3xBQ3Jtc0tsSVVRWWt0dTZ0UGlxRVNudkJsX1RYeUUzTWhabzU5bmR2emVCS01YRWl4ZHRjVVBDdkpNNEo5LUluMzl5djV3dkhkOXR1VWRTbjdIeDdmOXplYkVMaXV5cnhySkR5dXV2dHdGeUZjRGNScHJOdTNYbw&q=https%3A%2F%2Facademind.com%2Ftutorials%2Fwhat-is-state%2F )
 
 
-- React Component 
-- Functions 
+- React Component
+- Functions
 
-Inside of curly brackets will be read and executed as JS 
+Inside of curly brackets will be read and executed as JS -->

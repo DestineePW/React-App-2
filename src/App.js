@@ -1,4 +1,6 @@
 import Todo from "./Components/Todo";
+import Modal from "./Components/Modal";
+import Backdrop from "./Components/Backdrop";
 
 function App() {
   return (
@@ -7,6 +9,8 @@ function App() {
       <Todo text="Learn React" />
       <Todo text="Master React" />
       <Todo text="Explore the full React Course" />
+      <Modal />
+      <Backdrop />
     </div>
   );
 }
