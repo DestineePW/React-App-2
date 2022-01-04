@@ -17,3 +17,27 @@
 - Functions
 
 Inside of curly brackets will be read and executed as JS -->
+
+ANSWERS
+
+Rendering is putting osmething on the screen with your code.
+
+App is a component that renders JSX, usually sub components. APP should be thought of as a box and other components are slso boxes that contain code.
+
+Function is a box that contains code
+
+A Parameter is a variable used to pass things into the function box. Like a straw in the lid of the box.
+
+JSX is returned from every react component\*\*\*\*
+
+The return of a compontenet can only hold one top level element
+
+STATE is
+
+PROPS
+
+const Header = ({ title, onAdd, showAdd }) => {
+return (
+
+    Const is a variable declaration and header is the variable name. The equal sign means 'put what is on the right onto the left'. What is inside of the render is JSX elements
+     => is an ARROW function
